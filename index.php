@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Home</title>
+	<title>Hoadsadasdme</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
